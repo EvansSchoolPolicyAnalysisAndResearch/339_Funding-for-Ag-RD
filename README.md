@@ -1,6 +1,6 @@
 # 339 Funding for Agricultural R&D
 ## Information
-The files contained within this repository were used in the data collection portion of [EPAR Technical Report 339](https://evans.uw.edu/policy-impact/epar/research/funding-agricultural-research-and-development-public-goods). These data were later used to create visualizations available on the [EPAR website](https://evans.uw.edu/policy-impact/epar/changes-public-sector-agriculture-rd-investment-sub-saharan-africa).
+The files contained within this repository were used in the data collection portion of [EPAR Technical Report 339](https://evans.uw.edu/policy-impact/epar/research/funding-agricultural-research-and-development-public-goods). These data were later used to create visualizations available on the EPAR website,https://evans.uw.edu/policy-impact/epar/changes-public-sector-agriculture-rd-investment-sub-saharan-africa and https://evans.uw.edu/policy-impact/epar/public-investment-agricultural-research-and-development.
 ## Instructions
 ASTI_FAOSTAT_Final_1.19.19.do: This file takes crop specific FAOSTAT indicators, aggregates them to ASTI categories, merges them with ASTI data on Agricultural FTEs by crop, and outputs a file that one can directly import into Tableau to create or update visualizations.  
 
